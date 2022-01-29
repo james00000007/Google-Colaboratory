@@ -11,7 +11,7 @@ This is a Google Colab notebook for **Transferring Files/Folders between Drives*
 <br />
 
 ## [RDP✅](RDP%E2%9C%85.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
-This is a Google Colab notebook for **Transferring Files/Folders between Drives** from different Google accounts.
+This is a Google Colab notebook for **Linux Debain RDP 12Hours**
 
 <br />
 
