@@ -20,6 +20,11 @@ This is a Google Colab notebook for **compressing/decompressing files/folders** 
 
 <br />
 
+## [qbittorrent WEB UI✅](qbittorrent%20WEB%20UI%E2%9C%85.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][qbittorrent WEB UI Notebook]
+This is a Google Colab notebook with **QBittorrent WEB UI**.
+
+<br />
+
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
@@ -27,3 +32,4 @@ This is a Google Colab notebook for **compressing/decompressing files/folders** 
 [Transfer between drives Notebook]:         https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Transfer%20between%20drives%E2%9C%85.ipynb
 [RDP Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/RDP%E2%9C%85.ipynb
 [Rar & Unrar, Zip & Unzip ISO Extract Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Rar%20%26%20Unrar%2C%20Zip%20%26%20Unzip%20ISO%20Extract%E2%9C%85.ipynb
+[qbittorrent WEB UI Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/qbittorrent%20WEB%20UI%E2%9C%85.ipynb
