@@ -6,7 +6,7 @@ Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't ne
 <br />
 
 ## [Transfer between drives](Transfer%20between%20drives%E2%9C%85.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Transfer between drives Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Torrent%20Downloader)
-Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive.
+This is a Google Colab notebook for **Transferring Files/Folders between Drives** from different Google accounts.
 
 <br />
 
