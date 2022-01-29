@@ -25,6 +25,10 @@ This is a Google Colab notebook with **QBittorrent WEB UI**.
 
 <br />
 
+## [qbittorrent WEB UI & Rclone✅](qbittorrent%20WEB%20UI%E2%9C%85.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][qbittorrent WEB UI & Rclone Notebook]
+This is a Google Colab notebook with **QBittorrent WEB UI**.
+
+<br />
 
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
@@ -33,3 +37,4 @@ This is a Google Colab notebook with **QBittorrent WEB UI**.
 [RDP Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/RDP%E2%9C%85.ipynb
 [Rar & Unrar, Zip & Unzip ISO Extract Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Rar%20%26%20Unrar%2C%20Zip%20%26%20Unzip%20ISO%20Extract%E2%9C%85.ipynb
 [qbittorrent WEB UI Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/qbittorrent%20WEB%20UI%E2%9C%85.ipynb
+[qbittorrent WEB UI & Rclone Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/qbittorrent%20WEB%20UI%20%26%20Rclone%E2%9C%85.ipynb
