@@ -10,11 +10,11 @@ Torrent Downloader is **Colab based Torrent Downloader** in which you doesn't ne
 
 <br />
 
-[Colab Badge]:                  https://colab.research.google.com/assets/colab-badge.svg
-[License-Badge]:                https://img.shields.io/badge/License-MIT-blue.svg
-[RDP Notebook]:                 https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
-[Code Issues]:                  https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
-[Code Notebook]:                https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
-[Torrent Issues]:               https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
-[Torrent Notebook]:             https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Torrent%20to%20Gdrive%E2%9C%85.ipynb
-[Transfer between drives]:      https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Transfer%20between%20drives%E2%9C%85.ipynb
+[Colab Badge]:            https://colab.research.google.com/assets/colab-badge.svg
+[License-Badge]:          https://img.shields.io/badge/License-MIT-blue.svg
+[RDP Notebook]:           https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb
+[Code Issues]:            https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Code%20Server?label=Issues
+[Code Notebook]:          https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Code%20Server/Code%20Server.ipynb
+[Torrent Issues]:         https://img.shields.io/github/issues/PradyumnaKrishna/Colab-Hacks/Torrent%20Downloader?label=Issues
+[Torrent Notebook]:       https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Torrent%20to%20Gdrive%E2%9C%85.ipynb
+[Torrent Notebook]:       https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Transfer%20between%20drives%E2%9C%85.ipynb
