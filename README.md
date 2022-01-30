@@ -35,6 +35,11 @@ This is a Google Colab notebook **File Browser** provides a file managing interf
 
 <br />
 
+## [Amazing Colab Notebook✅](Amazing%20Colab%20Notebook%E2%9C%85.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][Amazing Colab Notebook]
+This is a Google Colab notebook Features: Jellyfin, Aria2, Ariang, Rclone, Rclone WebUI, Netdata, Cloud Commander, Ssh, noVnc, filebrowser, SocialFish, L3MON, SayCheese, spotify-downloader, pyLoad, code-server, V2ray, NoMachine, Flutter, Glances, WeTTy, Kivy,..
+
+<br />
+
 [Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
 [License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
 [Torrent Notebook]:     https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Torrent%20to%20Gdrive%E2%9C%85.ipynb
@@ -44,3 +49,4 @@ This is a Google Colab notebook **File Browser** provides a file managing interf
 [qbittorrent WEB UI Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/qbittorrent%20WEB%20UI%E2%9C%85.ipynb
 [qbittorrent WEB UI & Rclone Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/qbittorrent%20WEB%20UI%20%26%20Rclone%E2%9C%85.ipynb
 [File Browser Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Filebrowser%E2%9C%85.ipynb
+[Amazing Colab Notebook]:        https://colab.research.google.com/github/james00000007/Google-Colaboratory/blob/main/Amazing%20Colab%20Notebook%E2%9C%85.ipynb
